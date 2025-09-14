@@ -1,6 +1,6 @@
 # User-Engagement-Analysis-For-RESTAURANT-SUCCESS
 
-# 🍽️ Restaurant Business Success Analysis using Yelp Dataset  
+
 
 ## 📌 Problem Statement  
 In a competitive market like the restaurant industry, understanding the factors that influence business success is crucial for stakeholders.  
